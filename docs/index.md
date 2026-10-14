@@ -9,3 +9,6 @@
 - every 100 rolls, there is a `25x` luck boost for one roll, and every 10k rolls, there is a `2500x` luck boost for one roll. this enables you to *potentially* get rarer things
 - the index tells you *how rare an ore is*, *how many of them you have*, and *the* *last time you rolled a selected ore*.
 - you can save your progress anytime using the built in save system, meaning you don’t have to worry about your progress being wiped when you leave, like scratch projects do
+
+[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord-icon.svg" alt="Discord" height="32" />](https://discord.gg/2GZEdkqXw7)
+[<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube-icon.svg" alt="YouTube" height="32" />](https://youtube.com/@wgatopet)
