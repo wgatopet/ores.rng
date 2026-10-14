@@ -13,5 +13,5 @@ title: ores.rng
 - you can save your progress anytime using the built in save system, meaning you don’t have to worry about your progress being wiped when you leave, like scratch projects do
 
 > Join the **Discord** to view the devlog for the game aswell as to be notified whenever it updates!
-> 
-> [<img src="https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord-compact.svg" alt="Discord" height="32" />](https://discord.gg/2GZEdkqXw7)
+
+[<img src="https://wgatopet.github.io/ores.rng/site_assets/icons_discord.png" alt="gatopet's games" height="32" />](https://discord.gg/2GZEdkqXw7)
