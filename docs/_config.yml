@@ -1,9 +1,35 @@
-# theme set
-remote_theme: "jekyll/minima@1e8a445"
-plugins:
-- jekyll-remote-theme
-
-# title/description
 title: ores.rng
-tagline: a site for the TurboWarp game, ores.rng!
-description: a site for the TurboWarp game based on the Roblox game "REx:Reincarnated", ores.rng!
+author: wgatopet
+description: > 
+ site made for the TurboWarp game "ores.rng",
+ a game about rolling for ores of varying rarities,
+ from 1/1 to chances in the billions.
+
+# social links
+# twitter_username:
+github_username:  wgatopet
+# rss:
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+# linkedin_username:
+# pinterest_username:
+youtube_username: wgatopet
+# googleplus_username:
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme
