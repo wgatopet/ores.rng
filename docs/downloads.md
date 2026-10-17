@@ -13,6 +13,6 @@ title: downloads
 <details open>
 <summary>γ3</summary>
 
-> [Download](https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing)
 
 </details>

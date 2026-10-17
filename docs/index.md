@@ -1,5 +1,5 @@
 ---
-title: ores.rng
+title: home
 ---
 
 ## What is ores.rng?
@@ -15,7 +15,3 @@ title: ores.rng
 > Join the **Discord** to view the devlog for the game aswell as to be notified whenever it updates!
 
 [<img src="https://wgatopet.github.io/ores.rng/site_assets/icons_discord.png" alt="gatopet's games" height="32" />](https://discord.gg/2GZEdkqXw7)
-
-## Navigation:
-|[Click here](https://wgatopet.github.io/ores.rng/downloads.md)|
-|---|
