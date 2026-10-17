@@ -10,9 +10,8 @@ title: downloads
 
 ## Download ores.rng:
 
+<!--GAMMA VERSIONS-->
 <details open>
 <summary>γ3</summary>
-
-[Download](https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing)
-
+<a href="https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing">Download</a>
 </details>
