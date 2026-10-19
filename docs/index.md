@@ -12,6 +12,6 @@ title: home
 - the index tells you *how rare an ore is*, *how many of them you have*, and *the* *last time you rolled a selected ore*.
 - you can save your progress anytime using the built in save system, meaning you don’t have to worry about your progress being wiped when you leave, like scratch projects do
 
-> Join the **Discord** to view the devlog for the game aswell as to be notified whenever it updates!
+> join the **Discord** to view the devlog for the game aswell as to be notified whenever it updates!
 
 [<img src="https://wgatopet.github.io/ores.rng/site_assets/icons_discord.png" alt="gatopet's games" height="32" />](https://discord.gg/2GZEdkqXw7)

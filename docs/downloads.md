@@ -8,9 +8,13 @@ title: downloads
 2. click on the download hyperlink and you'll be sent to a **Google Drive** page
 3. open the html file when it is downloaded, it should open in your browser
 
-## Download ores.rng:
+> soon, i will hopefully be able to make it so you can download the game straight from this page rather than going to a Google Drive link, with the help of Git LFS
+
+## Download links:
 
 <!--GAMMA VERSIONS-->
+
+<!--γ3-->
 <details open>
 <summary>γ3</summary>
 <a href="https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing">Download</a>
