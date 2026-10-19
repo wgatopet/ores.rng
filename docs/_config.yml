@@ -24,7 +24,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 # build settings
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 
 plugins:
  - jekyll-feed
