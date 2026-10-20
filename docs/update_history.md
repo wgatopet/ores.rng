@@ -33,7 +33,7 @@ title: update history
 <!--γ3 - turbowarped-->
 <details open>
 <summary>γ3 - turbowarped</summary>
-
+<br>
 <b>Published:</b> 14/01/2026<br><br>
 
 Changes:<br>
@@ -56,7 +56,7 @@ Changes:<br>
 <!--γ2 - the little things-->
 <details closed>
 <summary>γ2 - the little things</summary>
-
+<br>
 <b>Published:</b> 16/12/2025<br><br>
 
 Changes:<br>
@@ -80,7 +80,7 @@ Changes:<br>
 <!--γ1.1 - hotfix-->
 <details closed>
 <summary>γ1.1 - hotfix</summary>
-
+<br>
 <b>Published:</b> 13/12/2025<br><br>
 
 Changes:<br>
@@ -95,7 +95,7 @@ Changes:<br>
 <!--γ - index and inventory update-->
 <details closed>
 <summary>γ - index and inventory update</summary>
-
+<br>
 <b>Published:</b> 10/12/2025<br><br>
 
 Changes:
