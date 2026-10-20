@@ -34,6 +34,7 @@ title: update history
 
 <details open>
 <summary><b>γ3</b> - turbowarped</summary>
+<br>
 <b>Published:</b> 14/01/2026<br><br>
 
 Changes:<br>
@@ -51,12 +52,14 @@ Changes:<br>
 
 <t style="background-color:#ffd096;">! fixed a bug where buttons in the settings menu would sometimes appear behind the menu itself for reasons i can’t work out</t><br>
 
+<br>
 </details>
 
 <!--γ2 - the little things-->
 
 <details>
 <summary><b>γ2</b> - the little things</summary>
+<br>
 <b>Published:</b> 16/12/2025<br><br>
 
 Changes:<br>
@@ -73,29 +76,33 @@ Changes:<br>
 
 <t style="color:grey;">> instead of round(rarity/luck) it is now ceiling(rarity/luck)</t><br>
 
-<t style="background-color:#ebebeb;">= changed the required key to verify you are on PC from E to Spacebar
+<t style="background-color:#ebebeb;">= changed the required key to verify you are on PC from E to Spacebar</t><br>
 
+<br>
 </details>
 
 <!--γ1.1 - hotfix-->
 
 <details>
 <summary><b>γ1.1</b> - hotfix</summary>
+<br>
 <b>Published:</b> 13/12/2025<br><br>
 
 Changes:<br>
-<t style="background-color:#ebebeb;">= added a verification system that verifies that you are on pc before playing - mobile is not supported in ores.rng!<br>
+<t style="background-color:#ebebeb;">= added a verification system that verifies that you are on pc before playing - mobile is not supported in ores.rng!</t><br>
 
 <t style="background_color:#ffd096;">! fixed a bug that set the roll number to 1 upon the first launch of the game</t><br>
 
 <t style="color:grey;">> i’m pretty sure this is at the fault of me, i saved the game when i had rolled once, so everything broke 😭</t><br>
 
+<br>
 </details>
 
 <!--γ - index and inventory update-->
 
 <details>
 <summary><b>γ</b> - index and inventory update</summary>
+<br>
 <b>Published:</b> 10/12/2025<br><br>
 
 Changes:<br>
@@ -121,6 +128,7 @@ Changes:<br>
 <t style="background-color:#ffd096;">! fixed a bug where you could multi press the settings button and bug out the UI very easily<br>
 ! removed herobrine</t>
 <br>
+
 <pre>
 Ores added:
 
@@ -132,4 +140,5 @@ Otherworldly: SCARLET, VANTABLACK
 Multiversal: SPYWARE LXXII, OBLIVION
 </pre>
 
+<br>
 </details>
