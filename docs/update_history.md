@@ -31,8 +31,10 @@ title: update history
 ### gamma (γ)
 
 <!--γ3 - turbowarped-->
+
 <details open>
-<summary>γ3 - turbowarped</summary>
+<summary><b>γ3</b> - turbowarped</summary>
+
 <br>
 <b>Published:</b> 14/01/2026<br><br>
 
@@ -54,8 +56,10 @@ Changes:<br>
 </details>
 
 <!--γ2 - the little things-->
-<details closed>
-<summary>γ2 - the little things</summary>
+
+<details>
+<summary><b>γ2</b> - the little things</summary>
+
 <br>
 <b>Published:</b> 16/12/2025<br><br>
 
@@ -78,8 +82,10 @@ Changes:<br>
 </details>
 
 <!--γ1.1 - hotfix-->
-<details closed>
-<summary>γ1.1 - hotfix</summary>
+
+<details>
+<summary><b>γ1.1</b> - hotfix</summary>
+
 <br>
 <b>Published:</b> 13/12/2025<br><br>
 
@@ -93,12 +99,14 @@ Changes:<br>
 </details>
 
 <!--γ - index and inventory update-->
-<details closed>
-<summary>γ - index and inventory update</summary>
+
+<details>
+<summary><b>γ</b> - index and inventory update</summary>
+
 <br>
 <b>Published:</b> 10/12/2025<br><br>
 
-Changes:
+Changes:<br>
 <t style="background_color:#b6ff96;">+ added the INDEX</t><br>
 
 <t style="color:grey;">> shows info about all ores in the game. shows their name, tier, rarity and how many you have (so it also couples as an inventory system!)<br>
@@ -119,8 +127,8 @@ Changes:
 = changed 10x luck rolls to 25x luck rolls</t><br>
 
 <t style="background-color:#ffd096;">! fixed a bug where you could multi press the settings button and bug out the UI very easily<br>
-! removed herobrine</t><br>
-
+! removed herobrine</t>
+<br>
 <pre>
 Ores added:
 
