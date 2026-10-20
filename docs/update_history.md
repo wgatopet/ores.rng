@@ -91,7 +91,7 @@ Changes:<br>
 Changes:<br>
 <t style="background-color:#ebebeb;">= added a verification system that verifies that you are on pc before playing - mobile is not supported in ores.rng!</t><br>
 
-<t style="background_color:#ffd096;">! fixed a bug that set the roll number to 1 upon the first launch of the game</t><br>
+<t style="background-color:#ffd096;">! fixed a bug that set the roll number to 1 upon the first launch of the game</t><br>
 
 <t style="color:grey;">> i’m pretty sure this is at the fault of me, i saved the game when i had rolled once, so everything broke 😭</t><br>
 
@@ -142,3 +142,55 @@ Multiversal: SPYWARE LXXII, OBLIVION
 
 <br>
 </details>
+
+### beta (γ)
+
+<!--β - release-->
+
+<details>
+<summary><b>β</b> - release</summary>
+<br>
+<b>Published:</b> 19/10/2025<br><br>
+
+Changes:<br>
+<t style="background-color:#b6ff96;">+ 116 ores added on release</t><br>
+
+<t style="color:grey;">> 79 non-supernatural, 37 supernatural</t>
+
+<t style="background-color:#b6ff96;">+ settings menu added<br>
++ index menu button is there, but the menu itself is not, and will be added in a future update</t><br>
+
+</details>
+
+<!--SAMPLE UPDATE-->
+<!--
+
+<details>
+<summary><b>VERSION</b> - UPDATE NAME</summary>
+<br>
+<b>Published:</b> PUBLISH DATE<br><br>
+
+Changes:<br>
+<t style="background-color:#b6ff96;">+ brand new content</t><br>
+
+<t style="background-color:#b6ff96;">+= significant addition made to existing content</t><br>
+
+<t style="background-color:#ebebeb;">= change</t><br>
+
+<t style="background-color:#faaaaa;">- removal</t><br>
+
+<t style="background-color:#ffd096;">! bugfix</t><br>
+
+<t style="color:grey;">> more information about a change</t>
+<br>
+
+<pre>
+Ores added:
+
+Common: Example
+</pre>
+
+<br>
+</details>
+
+-->
