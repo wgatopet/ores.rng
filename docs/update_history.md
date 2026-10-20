@@ -34,8 +34,6 @@ title: update history
 
 <details open>
 <summary><b>γ3</b> - turbowarped</summary>
-
-<br>
 <b>Published:</b> 14/01/2026<br><br>
 
 Changes:<br>
@@ -59,8 +57,6 @@ Changes:<br>
 
 <details>
 <summary><b>γ2</b> - the little things</summary>
-
-<br>
 <b>Published:</b> 16/12/2025<br><br>
 
 Changes:<br>
@@ -85,8 +81,6 @@ Changes:<br>
 
 <details>
 <summary><b>γ1.1</b> - hotfix</summary>
-
-<br>
 <b>Published:</b> 13/12/2025<br><br>
 
 Changes:<br>
@@ -102,8 +96,6 @@ Changes:<br>
 
 <details>
 <summary><b>γ</b> - index and inventory update</summary>
-
-<br>
 <b>Published:</b> 10/12/2025<br><br>
 
 Changes:<br>
