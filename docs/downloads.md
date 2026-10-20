@@ -17,5 +17,9 @@ title: downloads
 <!--γ3-->
 <details open>
 <summary>γ3</summary>
-<a href="https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing">Download</a>
+
+<p><a href="https://drive.google.com/file/d/1iPOwq_1DX92KhVbrk4W4GPi6r4AshWwu/view?usp=sharing">
+<img src="https://wgatopet.github.io/ores.rng/site_assets/icons_download.png" alt="Download" width="32" height="32">
+</a></p>
+
 </details>
