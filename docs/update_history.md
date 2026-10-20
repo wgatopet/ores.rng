@@ -9,14 +9,13 @@ title: update history
 - the version with its dropdown already opened is the **latest version of ores.rng**
 
 ## Notation:
-```diff
-+ brand new content
-+= significant addition made to existing content
+
+<t style="color:green;">+ brand new content</t><br>
+<t style="color:green;">+= significant addition made to existing content</t><br>
 = change
-- removal
-! bugfix
-# explanation of change
-```
+<t style="color:red;">- removal</t><br>
+<t style="color:orange;">! bugfix</t><br>
+<t style="color:grey;">> more information about a change</t>
 
 ## Update history:
 
@@ -28,17 +27,15 @@ title: update history
 
 **Published:** 14/01/2026
 
-```diff
 Changes:
-+ added saving and loading (holy moly it’s about time)
-+ added many new buttons in the settings for saving and loading
-# autosave config, save data, and load data
-+= improved all ui yet again as i was not satisfied with the ui made in the original γ update
+<t style="color:green;">+ added saving and loading (holy moly it’s about time)</t><br>
+<t style="color:green;">+ added many new buttons in the settings for saving and loading</t><br>
+<t style="color:grey;"># autosave config, save data, and load data</t><br>
+<t style="color:green;">+= improved all ui yet again as i was not satisfied with the ui made in the original γ update</t><br>
 = ported the entire game from scratch to an application in turbowarp, downloadable from this notion page
-! fixed a bug where buttons in the settings menu would sometimes appear behind the menu itself for reasons i can’t work out
-- removed the requirement to press the spacebar to prove you’re on mobile, as it is no longer necessary
-- removed the detector to see if you’re on turbowarp or not, as it is no longer necessary
-```
+<t style="color:orange;">! fixed a bug where buttons in the settings menu would sometimes appear behind the menu itself for reasons i can’t work out</t><br>
+<t style="color:red;">- removed the requirement to press the spacebar to prove you’re on mobile, as it is no longer necessary</t><br>
+<t style="color:red;">- removed the detector to see if you’re on turbowarp or not, as it is no longer necessary</t>
 
 </details>
 
