@@ -155,7 +155,7 @@ Multiversal: SPYWARE LXXII, OBLIVION
 Changes:<br>
 <t style="background-color:#b6ff96;">+ 116 ores added on release</t><br>
 
-<t style="color:grey;">> 79 non-supernatural, 37 supernatural</t>
+<t style="color:grey;">> 79 non-supernatural, 37 supernatural</t><br>
 
 <t style="background-color:#b6ff96;">+ settings menu added<br>
 + index menu button is there, but the menu itself is not, and will be added in a future update</t><br>
