@@ -3,8 +3,8 @@ title: home
 ---
 
 ## What is ores.rng?
-- *ores.rng* is a game based on `TurboWarp` created by "wgatopet". it is based on the Roblox game "REx:Reincarnated"
-- the main part of the game is about rolling for ores of varying rarities, from 1/1 to chances in the billions
+- *ores.rng* is a game created using `TurboWarp` by "wgatopet". it is based on the Roblox game "REx:Reincarnated"
+- the main part of the game is rolling for ores of varying rarities, from 1/1 to chances in the billions
 
 ## How to play:
 - to play, you press the roll button, over and over and over again, until you get something rare! **yep, that’s the entire gameplay.**
